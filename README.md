@@ -32,4 +32,4 @@
 - er диаграмма ваше БД (для построения можно использовать https://app.sqldbm.com/)   
    
 er диаграмма:   
-[ER_Diagram](https://github.com/JokeI777/SeventhHomeWorkJSB/blob/master/Diagram_HWJSB7.png)
+![ER_Diagram](https://github.com/JokeI777/SeventhHomeWorkJSB/blob/master/Diagram_HWJSB7.png)
